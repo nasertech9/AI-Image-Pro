@@ -1,0 +1,5 @@
+{
+  "name": "AI Glass Image Generator",
+  "description": "A sleek, high-tech interface in a glassmorphism dark mode theme to generate images from text prompts using the Gemini API. Experience the future of AI art generation.",
+  "requestFramePermissions": []
+}
